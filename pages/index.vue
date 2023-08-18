@@ -1,6 +1,6 @@
 <template>
-  <main class="bg-gray-300 w-[940px] mx-auto h-fit">
-    <h1 class="p-6 text-3xl">
+  <main class="bg-gray-100 w-[940px] mx-auto h-fit p-6">
+    <h1 class="text-3xl mb-8">
       Welcome to My Portfolio Site!<br />Frontend Engineer
     </h1>
     <div class="text-center mb-6">
@@ -12,7 +12,7 @@
       />
     </div>
     <div class="text-blue-500 hover:text-blue-800 text-right">
-      <NuxtLink to="/About">➡ About Page</NuxtLink>
+      <NuxtLink to="/Skill">➡ Next Page</NuxtLink>
     </div>
   </main>
 </template>
