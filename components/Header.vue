@@ -7,10 +7,10 @@
       <NuxtLink to="/Skill">Skill</NuxtLink>
     </li>
     <li class="text-blue-500 hover:text-blue-800">
-      <NuxtLink to="/Blog">Blog</NuxtLink>
+      <NuxtLink to="/Works">Works</NuxtLink>
     </li>
     <li class="text-blue-500 hover:text-blue-800">
-      <NuxtLink to="/contact">Contact</NuxtLink>
+      <NuxtLink to="/Blog">Blog</NuxtLink>
     </li>
   </ul>
 </template>
